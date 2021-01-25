@@ -1,0 +1,1825 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "results_found": 6,
+      "results_start": 0,
+      "results_shown": 6,
+      "restaurants": [
+        {
+          "restaurant": {
+            "R": {
+              "res_id": 19064713,
+              "is_grocery_store": false,
+              "has_menu_status": {
+                "delivery": -1,
+                "takeaway": -1
+              }
+            },
+            "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+            "id": "19064713",
+            "name": "Sahuji - The South Indian Katta",
+            "url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+              "address": "opp - post office, near bus stand, Akola, Akola Locality, Akola",
+              "locality": "Akola Locality",
+              "city": "Akola",
+              "city_id": 11434,
+              "latitude": "20.7105167862",
+              "longitude": "77.0220817253",
+              "zipcode": "",
+              "country_id": 1,
+              "locality_verbose": "Akola Locality, Akola"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "South Indian",
+            "timings": "8 AM to 12 Noon",
+            "average_cost_for_two": 100,
+            "price_range": 1,
+            "currency": "Rs.",
+            "highlights": [
+              "Breakfast"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating": {
+              "aggregate_rating": 0,
+              "rating_text": "Not rated",
+              "rating_color": "CBCBCB",
+              "rating_obj": {
+                "title": {
+                  "text": "-"
+                },
+                "bg_color": {
+                  "type": "grey",
+                  "tint": "400"
+                }
+              },
+              "votes": 0
+            },
+            "all_reviews_count": 0,
+            "photos_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 0,
+            "menu_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/19064713",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "+91 7387858587",
+            "all_reviews": {
+              "reviews": []
+            },
+            "establishment": [
+              "Food Truck"
+            ],
+            "establishment_types": []
+          }
+        },
+        {
+          "restaurant": {
+            "R": {
+              "res_id": 19248120,
+              "is_grocery_store": false,
+              "has_menu_status": {
+                "delivery": -1,
+                "takeaway": -1
+              }
+            },
+            "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+            "id": "19248120",
+            "name": "Guruprit chinese and south indian center",
+            "url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+              "address": "Main road, pakki kholi, sindi camp, Akola, Akola Locality, Akola",
+              "locality": "Akola Locality",
+              "city": "Akola",
+              "city_id": 11434,
+              "latitude": "20.6953460701",
+              "longitude": "77.0051854849",
+              "zipcode": "",
+              "country_id": 1,
+              "locality_verbose": "Akola Locality, Akola"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "South Indian, Chinese, Sindhi",
+            "timings": "8 AM to 11 PM",
+            "average_cost_for_two": 0,
+            "price_range": 1,
+            "currency": "Rs.",
+            "highlights": [
+              "Debit Card",
+              "Lunch",
+              "Breakfast",
+              "Delivery",
+              "Credit Card",
+              "Dinner",
+              "Seating Available",
+              "Takeaway Available",
+              "Cash",
+              "Indoor Seating",
+              "Digital Payments Accepted",
+              "Pure Veg"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating": {
+              "aggregate_rating": 0,
+              "rating_text": "Not rated",
+              "rating_color": "CBCBCB",
+              "rating_obj": {
+                "title": {
+                  "text": "-"
+                },
+                "bg_color": {
+                  "type": "grey",
+                  "tint": "400"
+                }
+              },
+              "votes": 2
+            },
+            "all_reviews_count": 0,
+            "photos_url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 0,
+            "menu_url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/19248120",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "+91 8551887708",
+            "all_reviews": {
+              "reviews": []
+            },
+            "establishment": [
+              "Food Court"
+            ],
+            "establishment_types": []
+          }
+        },
+        {
+          "restaurant": {
+            "R": {
+              "res_id": 19113852,
+              "is_grocery_store": false,
+              "has_menu_status": {
+                "delivery": -1,
+                "takeaway": -1
+              }
+            },
+            "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+            "id": "19113852",
+            "name": "Sahuji South Indian Katta",
+            "url": "https://www.zomato.com/akola/sahuji-south-indian-katta-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+              "address": "Opp Post Office, Near Bus stand, Akola, Akola Locality, Akola",
+              "locality": "Akola Locality",
+              "city": "Akola",
+              "city_id": 11434,
+              "latitude": "20.7066480000",
+              "longitude": "77.0032850000",
+              "zipcode": "",
+              "country_id": 1,
+              "locality_verbose": "Akola Locality, Akola"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "South Indian",
+            "timings": "8 AM to 12 Noon",
+            "average_cost_for_two": 100,
+            "price_range": 1,
+            "currency": "Rs.",
+            "highlights": [
+              "Cash",
+              "Seating Available",
+              "Takeaway Available",
+              "Outdoor Seating",
+              "Digital Payments Accepted"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating": {
+              "aggregate_rating": "3.6",
+              "rating_text": "Good",
+              "rating_color": "9ACD32",
+              "rating_obj": {
+                "title": {
+                  "text": "3.6"
+                },
+                "bg_color": {
+                  "type": "lime",
+                  "tint": "600"
+                }
+              },
+              "votes": 132
+            },
+            "all_reviews_count": 2,
+            "photos_url": "https://www.zomato.com/akola/sahuji-south-indian-katta-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 0,
+            "menu_url": "https://www.zomato.com/akola/sahuji-south-indian-katta-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 1,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/19113852",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/akola/sahuji-south-indian-katta-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "+91 7387858587",
+            "all_reviews": {
+              "reviews": [
+                {
+                  "review": []
+                },
+                {
+                  "review": []
+                }
+              ]
+            },
+            "establishment": [
+              "Kiosk"
+            ],
+            "establishment_types": []
+          }
+        },
+        {
+          "restaurant": {
+            "R": {
+              "res_id": 18978511,
+              "is_grocery_store": false,
+              "has_menu_status": {
+                "delivery": -1,
+                "takeaway": -1
+              }
+            },
+            "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+            "id": "18978511",
+            "name": "New Indian Chinese Center",
+            "url": "https://www.zomato.com/akola/new-indian-chinese-center-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+              "address": "Infront of Mount Carmel School ,Agresan Square, Akola",
+              "locality": "Akola Locality",
+              "city": "Akola",
+              "city_id": 11434,
+              "latitude": "20.7154394654",
+              "longitude": "77.0036908221",
+              "zipcode": "444001",
+              "country_id": 1,
+              "locality_verbose": "Akola Locality, Akola"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Roast Chicken, Chinese, North Indian, Rolls",
+            "timings": "6 PM to 9 PM",
+            "average_cost_for_two": 200,
+            "price_range": 1,
+            "currency": "Rs.",
+            "highlights": [
+              "Takeaway Available",
+              "Cash",
+              "Indoor Seating"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating": {
+              "aggregate_rating": "3.8",
+              "rating_text": "Good",
+              "rating_color": "9ACD32",
+              "rating_obj": {
+                "title": {
+                  "text": "3.8"
+                },
+                "bg_color": {
+                  "type": "lime",
+                  "tint": "600"
+                }
+              },
+              "votes": 142
+            },
+            "all_reviews_count": 1,
+            "photos_url": "https://www.zomato.com/akola/new-indian-chinese-center-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 0,
+            "menu_url": "https://www.zomato.com/akola/new-indian-chinese-center-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 1,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/18978511",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/akola/new-indian-chinese-center-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "+91 9422861652",
+            "all_reviews": {
+              "reviews": [
+                {
+                  "review": []
+                }
+              ]
+            },
+            "establishment": [
+              "Quick Bites"
+            ],
+            "establishment_types": []
+          }
+        },
+        {
+          "restaurant": {
+            "R": {
+              "res_id": 19308138,
+              "is_grocery_store": false,
+              "has_menu_status": {
+                "delivery": -1,
+                "takeaway": -1
+              }
+            },
+            "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+            "id": "19308138",
+            "name": "Abhishek south indian",
+            "url": "https://www.zomato.com/akola/abhishek-south-indian-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+              "address": "In Front of HDFC bank, Radha kishan plot, akola, Akola Locality, Akola",
+              "locality": "Akola Locality",
+              "city": "Akola",
+              "city_id": 11434,
+              "latitude": "20.7036883955",
+              "longitude": "76.9980327040",
+              "zipcode": "",
+              "country_id": 1,
+              "locality_verbose": "Akola Locality, Akola"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "South Indian",
+            "timings": "",
+            "average_cost_for_two": 100,
+            "price_range": 1,
+            "currency": "Rs.",
+            "highlights": [
+              "Takeaway Available",
+              "Breakfast",
+              "Standing Tables",
+              "Seating Available",
+              "Outdoor Seating",
+              "Self Service",
+              "Pure Veg"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating": {
+              "aggregate_rating": "3.4",
+              "rating_text": "Average",
+              "rating_color": "CDD614",
+              "rating_obj": {
+                "title": {
+                  "text": "3.4"
+                },
+                "bg_color": {
+                  "type": "lime",
+                  "tint": "500"
+                }
+              },
+              "votes": 42
+            },
+            "all_reviews_count": 15,
+            "photos_url": "https://www.zomato.com/akola/abhishek-south-indian-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 0,
+            "menu_url": "https://www.zomato.com/akola/abhishek-south-indian-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 1,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/19308138",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/akola/abhishek-south-indian-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "+91 9767799454",
+            "all_reviews": {
+              "reviews": [
+                {
+                  "review": []
+                },
+                {
+                  "review": []
+                },
+                {
+                  "review": []
+                },
+                {
+                  "review": []
+                },
+                {
+                  "review": []
+                }
+              ]
+            },
+            "establishment": [
+              "Food Truck"
+            ],
+            "establishment_types": []
+          }
+        },
+        {
+          "restaurant": {
+            "R": {
+              "res_id": 18843634,
+              "is_grocery_store": false,
+              "has_menu_status": {
+                "delivery": -1,
+                "takeaway": -1
+              }
+            },
+            "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+            "id": "18843634",
+            "name": "Hotel New Mohan",
+            "url": "https://www.zomato.com/akola/hotel-new-mohan-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+              "address": "Hotel New Mohan, Bay Pass, N H No 6, Murtizapur, Akola - 444107, Between Warehouse & Indian Oil Petrol Bunk, Bay Pass, Murtijapur, Akola Locality, Akola",
+              "locality": "Akola Locality",
+              "city": "Akola",
+              "city_id": 11434,
+              "latitude": "20.7355555556",
+              "longitude": "77.3547222222",
+              "zipcode": "",
+              "country_id": 1,
+              "locality_verbose": "Akola Locality, Akola"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "North Indian",
+            "timings": "10 AM to 10 PM",
+            "average_cost_for_two": 350,
+            "price_range": 2,
+            "currency": "Rs.",
+            "highlights": [
+              "Takeaway Available",
+              "Cash",
+              "Indoor Seating"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating": {
+              "aggregate_rating": 0,
+              "rating_text": "Not rated",
+              "rating_color": "CBCBCB",
+              "rating_obj": {
+                "title": {
+                  "text": "-"
+                },
+                "bg_color": {
+                  "type": "grey",
+                  "tint": "400"
+                }
+              },
+              "votes": 0
+            },
+            "all_reviews_count": 0,
+            "photos_url": "https://www.zomato.com/akola/hotel-new-mohan-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 0,
+            "menu_url": "https://www.zomato.com/akola/hotel-new-mohan-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/18843634",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/akola/hotel-new-mohan-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "+91 9422625455, +91 9834131979",
+            "all_reviews": {
+              "reviews": []
+            },
+            "establishment": [
+              "Quick Bites"
+            ],
+            "establishment_types": []
+          }
+        }
+      ]
+    }
+  ],
+  "required": [
+    "results_found",
+    "results_start",
+    "results_shown",
+    "restaurants"
+  ],
+  "properties": {
+    "results_found": {
+      "$id": "#/properties/results_found",
+      "type": "integer",
+      "title": "The results_found schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        6
+      ]
+    },
+    "results_start": {
+      "$id": "#/properties/results_start",
+      "type": "integer",
+      "title": "The results_start schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "results_shown": {
+      "$id": "#/properties/results_shown",
+      "type": "integer",
+      "title": "The results_shown schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        6
+      ]
+    },
+    "restaurants": {
+      "$id": "#/properties/restaurants",
+      "type": "array",
+      "title": "The restaurants schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": [],
+      "examples": [
+        [
+          {
+            "restaurant": {
+              "R": {
+                "res_id": 19064713,
+                "is_grocery_store": false,
+                "has_menu_status": {
+                  "delivery": -1,
+                  "takeaway": -1
+                }
+              },
+              "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+              "id": "19064713",
+              "name": "Sahuji - The South Indian Katta",
+              "url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+              "location": {
+                "address": "opp - post office, near bus stand, Akola, Akola Locality, Akola",
+                "locality": "Akola Locality",
+                "city": "Akola",
+                "city_id": 11434,
+                "latitude": "20.7105167862",
+                "longitude": "77.0220817253",
+                "zipcode": "",
+                "country_id": 1,
+                "locality_verbose": "Akola Locality, Akola"
+              },
+              "switch_to_order_menu": 0,
+              "cuisines": "South Indian",
+              "timings": "8 AM to 12 Noon",
+              "average_cost_for_two": 100,
+              "price_range": 1,
+              "currency": "Rs.",
+              "highlights": [
+                "Breakfast"
+              ],
+              "offers": [],
+              "opentable_support": 0,
+              "is_zomato_book_res": 0,
+              "mezzo_provider": "OTHER",
+              "is_book_form_web_view": 0,
+              "book_form_web_view_url": "",
+              "book_again_url": "",
+              "thumb": "",
+              "user_rating": {
+                "aggregate_rating": 0,
+                "rating_text": "Not rated",
+                "rating_color": "CBCBCB",
+                "rating_obj": {
+                  "title": {
+                    "text": "-"
+                  },
+                  "bg_color": {
+                    "type": "grey",
+                    "tint": "400"
+                  }
+                },
+                "votes": 0
+              },
+              "all_reviews_count": 0,
+              "photos_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+              "photo_count": 0,
+              "menu_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+              "featured_image": "",
+              "medio_provider": false,
+              "has_online_delivery": 0,
+              "is_delivering_now": 0,
+              "store_type": "",
+              "include_bogo_offers": true,
+              "deeplink": "zomato://restaurant/19064713",
+              "is_table_reservation_supported": 0,
+              "has_table_booking": 0,
+              "events_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+              "phone_numbers": "+91 7387858587",
+              "all_reviews": {
+                "reviews": []
+              },
+              "establishment": [
+                "Food Truck"
+              ],
+              "establishment_types": []
+            }
+          },
+          {
+            "restaurant": {
+              "R": {
+                "res_id": 19248120,
+                "is_grocery_store": false,
+                "has_menu_status": {
+                  "delivery": -1,
+                  "takeaway": -1
+                }
+              },
+              "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+              "id": "19248120",
+              "name": "Guruprit chinese and south indian center",
+              "url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+              "location": {
+                "address": "Main road, pakki kholi, sindi camp, Akola, Akola Locality, Akola",
+                "locality": "Akola Locality",
+                "city": "Akola",
+                "city_id": 11434,
+                "latitude": "20.6953460701",
+                "longitude": "77.0051854849",
+                "zipcode": "",
+                "country_id": 1,
+                "locality_verbose": "Akola Locality, Akola"
+              },
+              "switch_to_order_menu": 0,
+              "cuisines": "South Indian, Chinese, Sindhi",
+              "timings": "8 AM to 11 PM",
+              "average_cost_for_two": 0,
+              "price_range": 1,
+              "currency": "Rs.",
+              "highlights": [
+                "Debit Card",
+                "Lunch",
+                "Breakfast",
+                "Delivery",
+                "Credit Card",
+                "Dinner",
+                "Seating Available",
+                "Takeaway Available",
+                "Cash",
+                "Indoor Seating",
+                "Digital Payments Accepted",
+                "Pure Veg"
+              ],
+              "offers": [],
+              "opentable_support": 0,
+              "is_zomato_book_res": 0,
+              "mezzo_provider": "OTHER",
+              "is_book_form_web_view": 0,
+              "book_form_web_view_url": "",
+              "book_again_url": "",
+              "thumb": "",
+              "user_rating": {
+                "aggregate_rating": 0,
+                "rating_text": "Not rated",
+                "rating_color": "CBCBCB",
+                "rating_obj": {
+                  "title": {
+                    "text": "-"
+                  },
+                  "bg_color": {
+                    "type": "grey",
+                    "tint": "400"
+                  }
+                },
+                "votes": 2
+              },
+              "all_reviews_count": 0,
+              "photos_url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+              "photo_count": 0,
+              "menu_url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+              "featured_image": "",
+              "medio_provider": false,
+              "has_online_delivery": 0,
+              "is_delivering_now": 0,
+              "store_type": "",
+              "include_bogo_offers": true,
+              "deeplink": "zomato://restaurant/19248120",
+              "is_table_reservation_supported": 0,
+              "has_table_booking": 0,
+              "events_url": "https://www.zomato.com/akola/guruprit-chinese-and-south-indian-center-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+              "phone_numbers": "+91 8551887708",
+              "all_reviews": {
+                "reviews": []
+              },
+              "establishment": [
+                "Food Court"
+              ],
+              "establishment_types": []
+            }
+          }
+        ]
+      ],
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/restaurants/items",
+        "anyOf": [
+          {
+            "$id": "#/properties/restaurants/items/anyOf/0",
+            "type": "object",
+            "title": "The first anyOf schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": {},
+            "examples": [
+              {
+                "restaurant": {
+                  "R": {
+                    "res_id": 19064713,
+                    "is_grocery_store": false,
+                    "has_menu_status": {
+                      "delivery": -1,
+                      "takeaway": -1
+                    }
+                  },
+                  "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+                  "id": "19064713",
+                  "name": "Sahuji - The South Indian Katta",
+                  "url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                  "location": {
+                    "address": "opp - post office, near bus stand, Akola, Akola Locality, Akola",
+                    "locality": "Akola Locality",
+                    "city": "Akola",
+                    "city_id": 11434,
+                    "latitude": "20.7105167862",
+                    "longitude": "77.0220817253",
+                    "zipcode": "",
+                    "country_id": 1,
+                    "locality_verbose": "Akola Locality, Akola"
+                  },
+                  "switch_to_order_menu": 0,
+                  "cuisines": "South Indian",
+                  "timings": "8 AM to 12 Noon",
+                  "average_cost_for_two": 100,
+                  "price_range": 1,
+                  "currency": "Rs.",
+                  "highlights": [
+                    "Breakfast"
+                  ],
+                  "offers": [],
+                  "opentable_support": 0,
+                  "is_zomato_book_res": 0,
+                  "mezzo_provider": "OTHER",
+                  "is_book_form_web_view": 0,
+                  "book_form_web_view_url": "",
+                  "book_again_url": "",
+                  "thumb": "",
+                  "user_rating": {
+                    "aggregate_rating": 0,
+                    "rating_text": "Not rated",
+                    "rating_color": "CBCBCB",
+                    "rating_obj": {
+                      "title": {
+                        "text": "-"
+                      },
+                      "bg_color": {
+                        "type": "grey",
+                        "tint": "400"
+                      }
+                    },
+                    "votes": 0
+                  },
+                  "all_reviews_count": 0,
+                  "photos_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                  "photo_count": 0,
+                  "menu_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                  "featured_image": "",
+                  "medio_provider": false,
+                  "has_online_delivery": 0,
+                  "is_delivering_now": 0,
+                  "store_type": "",
+                  "include_bogo_offers": true,
+                  "deeplink": "zomato://restaurant/19064713",
+                  "is_table_reservation_supported": 0,
+                  "has_table_booking": 0,
+                  "events_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                  "phone_numbers": "+91 7387858587",
+                  "all_reviews": {
+                    "reviews": []
+                  },
+                  "establishment": [
+                    "Food Truck"
+                  ],
+                  "establishment_types": []
+                }
+              }
+            ],
+            "required": [
+              "restaurant"
+            ],
+            "properties": {
+              "restaurant": {
+                "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant",
+                "type": "object",
+                "title": "The restaurant schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                  {
+                    "R": {
+                      "res_id": 19064713,
+                      "is_grocery_store": false,
+                      "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                      }
+                    },
+                    "apikey": "1d7dddb3be64c6d938efd7b17340f77a",
+                    "id": "19064713",
+                    "name": "Sahuji - The South Indian Katta",
+                    "url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                    "location": {
+                      "address": "opp - post office, near bus stand, Akola, Akola Locality, Akola",
+                      "locality": "Akola Locality",
+                      "city": "Akola",
+                      "city_id": 11434,
+                      "latitude": "20.7105167862",
+                      "longitude": "77.0220817253",
+                      "zipcode": "",
+                      "country_id": 1,
+                      "locality_verbose": "Akola Locality, Akola"
+                    },
+                    "switch_to_order_menu": 0,
+                    "cuisines": "South Indian",
+                    "timings": "8 AM to 12 Noon",
+                    "average_cost_for_two": 100,
+                    "price_range": 1,
+                    "currency": "Rs.",
+                    "highlights": [
+                      "Breakfast"
+                    ],
+                    "offers": [],
+                    "opentable_support": 0,
+                    "is_zomato_book_res": 0,
+                    "mezzo_provider": "OTHER",
+                    "is_book_form_web_view": 0,
+                    "book_form_web_view_url": "",
+                    "book_again_url": "",
+                    "thumb": "",
+                    "user_rating": {
+                      "aggregate_rating": 0,
+                      "rating_text": "Not rated",
+                      "rating_color": "CBCBCB",
+                      "rating_obj": {
+                        "title": {
+                          "text": "-"
+                        },
+                        "bg_color": {
+                          "type": "grey",
+                          "tint": "400"
+                        }
+                      },
+                      "votes": 0
+                    },
+                    "all_reviews_count": 0,
+                    "photos_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                    "photo_count": 0,
+                    "menu_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                    "featured_image": "",
+                    "medio_provider": false,
+                    "has_online_delivery": 0,
+                    "is_delivering_now": 0,
+                    "store_type": "",
+                    "include_bogo_offers": true,
+                    "deeplink": "zomato://restaurant/19064713",
+                    "is_table_reservation_supported": 0,
+                    "has_table_booking": 0,
+                    "events_url": "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                    "phone_numbers": "+91 7387858587",
+                    "all_reviews": {
+                      "reviews": []
+                    },
+                    "establishment": [
+                      "Food Truck"
+                    ],
+                    "establishment_types": []
+                  }
+                ],
+                "required": [
+                  "R",
+                  "apikey",
+                  "id",
+                  "name",
+                  "url",
+                  "location",
+                  "switch_to_order_menu",
+                  "cuisines",
+                  "timings",
+                  "average_cost_for_two",
+                  "price_range",
+                  "currency",
+                  "highlights",
+                  "offers",
+                  "opentable_support",
+                  "is_zomato_book_res",
+                  "mezzo_provider",
+                  "is_book_form_web_view",
+                  "book_form_web_view_url",
+                  "book_again_url",
+                  "thumb",
+                  "user_rating",
+                  "all_reviews_count",
+                  "photos_url",
+                  "photo_count",
+                  "menu_url",
+                  "featured_image",
+                  "medio_provider",
+                  "has_online_delivery",
+                  "is_delivering_now",
+                  "store_type",
+                  "include_bogo_offers",
+                  "deeplink",
+                  "is_table_reservation_supported",
+                  "has_table_booking",
+                  "events_url",
+                  "phone_numbers",
+                  "all_reviews",
+                  "establishment",
+                  "establishment_types"
+                ],
+                "properties": {
+                  "R": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/R",
+                    "type": "object",
+                    "title": "The R schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                      {
+                        "res_id": 19064713,
+                        "is_grocery_store": false,
+                        "has_menu_status": {
+                          "delivery": -1,
+                          "takeaway": -1
+                        }
+                      }
+                    ],
+                    "required": [
+                      "res_id",
+                      "is_grocery_store",
+                      "has_menu_status"
+                    ],
+                    "properties": {
+                      "res_id": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/R/properties/res_id",
+                        "type": "integer",
+                        "title": "The res_id schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": 0,
+                        "examples": [
+                          19064713
+                        ]
+                      },
+                      "is_grocery_store": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/R/properties/is_grocery_store",
+                        "type": "boolean",
+                        "title": "The is_grocery_store schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": false,
+                        "examples": [
+                          false
+                        ]
+                      },
+                      "has_menu_status": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/R/properties/has_menu_status",
+                        "type": "object",
+                        "title": "The has_menu_status schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                          {
+                            "delivery": -1,
+                            "takeaway": -1
+                          }
+                        ],
+                        "required": [
+                          "delivery",
+                          "takeaway"
+                        ],
+                        "properties": {
+                          "delivery": {
+                            "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/R/properties/has_menu_status/properties/delivery",
+                            "type": "integer",
+                            "title": "The delivery schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": 0,
+                            "examples": [
+                              -1
+                            ]
+                          },
+                          "takeaway": {
+                            "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/R/properties/has_menu_status/properties/takeaway",
+                            "type": "integer",
+                            "title": "The takeaway schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": 0,
+                            "examples": [
+                              -1
+                            ]
+                          }
+                        },
+                        "additionalProperties": true
+                      }
+                    },
+                    "additionalProperties": true
+                  },
+                  "apikey": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/apikey",
+                    "type": "string",
+                    "title": "The apikey schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "1d7dddb3be64c6d938efd7b17340f77a"
+                    ]
+                  },
+                  "id": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/id",
+                    "type": "string",
+                    "title": "The id schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "19064713"
+                    ]
+                  },
+                  "name": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/name",
+                    "type": "string",
+                    "title": "The name schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "Sahuji - The South Indian Katta"
+                    ]
+                  },
+                  "url": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/url",
+                    "type": "string",
+                    "title": "The url schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+                    ]
+                  },
+                  "location": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location",
+                    "type": "object",
+                    "title": "The location schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                      {
+                        "address": "opp - post office, near bus stand, Akola, Akola Locality, Akola",
+                        "locality": "Akola Locality",
+                        "city": "Akola",
+                        "city_id": 11434,
+                        "latitude": "20.7105167862",
+                        "longitude": "77.0220817253",
+                        "zipcode": "",
+                        "country_id": 1,
+                        "locality_verbose": "Akola Locality, Akola"
+                      }
+                    ],
+                    "required": [
+                      "address",
+                      "locality",
+                      "city",
+                      "city_id",
+                      "latitude",
+                      "longitude",
+                      "zipcode",
+                      "country_id",
+                      "locality_verbose"
+                    ],
+                    "properties": {
+                      "address": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/address",
+                        "type": "string",
+                        "title": "The address schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "opp - post office, near bus stand, Akola, Akola Locality, Akola"
+                        ]
+                      },
+                      "locality": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/locality",
+                        "type": "string",
+                        "title": "The locality schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "Akola Locality"
+                        ]
+                      },
+                      "city": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/city",
+                        "type": "string",
+                        "title": "The city schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "Akola"
+                        ]
+                      },
+                      "city_id": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/city_id",
+                        "type": "integer",
+                        "title": "The city_id schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": 0,
+                        "examples": [
+                          11434
+                        ]
+                      },
+                      "latitude": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/latitude",
+                        "type": "string",
+                        "title": "The latitude schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "20.7105167862"
+                        ]
+                      },
+                      "longitude": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/longitude",
+                        "type": "string",
+                        "title": "The longitude schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "77.0220817253"
+                        ]
+                      },
+                      "zipcode": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/zipcode",
+                        "type": "string",
+                        "title": "The zipcode schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          ""
+                        ]
+                      },
+                      "country_id": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/country_id",
+                        "type": "integer",
+                        "title": "The country_id schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": 0,
+                        "examples": [
+                          1
+                        ]
+                      },
+                      "locality_verbose": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/location/properties/locality_verbose",
+                        "type": "string",
+                        "title": "The locality_verbose schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "Akola Locality, Akola"
+                        ]
+                      }
+                    },
+                    "additionalProperties": true
+                  },
+                  "switch_to_order_menu": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/switch_to_order_menu",
+                    "type": "integer",
+                    "title": "The switch_to_order_menu schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "cuisines": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/cuisines",
+                    "type": "string",
+                    "title": "The cuisines schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "South Indian"
+                    ]
+                  },
+                  "timings": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/timings",
+                    "type": "string",
+                    "title": "The timings schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "8 AM to 12 Noon"
+                    ]
+                  },
+                  "average_cost_for_two": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/average_cost_for_two",
+                    "type": "integer",
+                    "title": "The average_cost_for_two schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      100
+                    ]
+                  },
+                  "price_range": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/price_range",
+                    "type": "integer",
+                    "title": "The price_range schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      1
+                    ]
+                  },
+                  "currency": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/currency",
+                    "type": "string",
+                    "title": "The currency schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "Rs."
+                    ]
+                  },
+                  "highlights": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/highlights",
+                    "type": "array",
+                    "title": "The highlights schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": [],
+                    "examples": [
+                      [
+                        "Breakfast"
+                      ]
+                    ],
+                    "additionalItems": true,
+                    "items": {
+                      "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/highlights/items",
+                      "anyOf": [
+                        {
+                          "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/highlights/items/anyOf/0",
+                          "type": "string",
+                          "title": "The first anyOf schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "Breakfast"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "offers": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/offers",
+                    "type": "array",
+                    "title": "The offers schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": [],
+                    "examples": [
+                      []
+                    ],
+                    "additionalItems": true,
+                    "items": {
+                      "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/offers/items"
+                    }
+                  },
+                  "opentable_support": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/opentable_support",
+                    "type": "integer",
+                    "title": "The opentable_support schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "is_zomato_book_res": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/is_zomato_book_res",
+                    "type": "integer",
+                    "title": "The is_zomato_book_res schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "mezzo_provider": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/mezzo_provider",
+                    "type": "string",
+                    "title": "The mezzo_provider schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "OTHER"
+                    ]
+                  },
+                  "is_book_form_web_view": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/is_book_form_web_view",
+                    "type": "integer",
+                    "title": "The is_book_form_web_view schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "book_form_web_view_url": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/book_form_web_view_url",
+                    "type": "string",
+                    "title": "The book_form_web_view_url schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      ""
+                    ]
+                  },
+                  "book_again_url": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/book_again_url",
+                    "type": "string",
+                    "title": "The book_again_url schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      ""
+                    ]
+                  },
+                  "thumb": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/thumb",
+                    "type": "string",
+                    "title": "The thumb schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      ""
+                    ]
+                  },
+                  "user_rating": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating",
+                    "type": "object",
+                    "title": "The user_rating schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                      {
+                        "aggregate_rating": 0,
+                        "rating_text": "Not rated",
+                        "rating_color": "CBCBCB",
+                        "rating_obj": {
+                          "title": {
+                            "text": "-"
+                          },
+                          "bg_color": {
+                            "type": "grey",
+                            "tint": "400"
+                          }
+                        },
+                        "votes": 0
+                      }
+                    ],
+                    "required": [
+                      "aggregate_rating",
+                      "rating_text",
+                      "rating_color",
+                      "rating_obj",
+                      "votes"
+                    ],
+                    "properties": {
+                      "aggregate_rating": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/aggregate_rating",
+                        "type": "integer",
+                        "title": "The aggregate_rating schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": 0,
+                        "examples": [
+                          0
+                        ]
+                      },
+                      "rating_text": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_text",
+                        "type": "string",
+                        "title": "The rating_text schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "Not rated"
+                        ]
+                      },
+                      "rating_color": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_color",
+                        "type": "string",
+                        "title": "The rating_color schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                          "CBCBCB"
+                        ]
+                      },
+                      "rating_obj": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_obj",
+                        "type": "object",
+                        "title": "The rating_obj schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                          {
+                            "title": {
+                              "text": "-"
+                            },
+                            "bg_color": {
+                              "type": "grey",
+                              "tint": "400"
+                            }
+                          }
+                        ],
+                        "required": [
+                          "title",
+                          "bg_color"
+                        ],
+                        "properties": {
+                          "title": {
+                            "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_obj/properties/title",
+                            "type": "object",
+                            "title": "The title schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                              {
+                                "text": "-"
+                              }
+                            ],
+                            "required": [
+                              "text"
+                            ],
+                            "properties": {
+                              "text": {
+                                "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_obj/properties/title/properties/text",
+                                "type": "string",
+                                "title": "The text schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                  "-"
+                                ]
+                              }
+                            },
+                            "additionalProperties": true
+                          },
+                          "bg_color": {
+                            "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_obj/properties/bg_color",
+                            "type": "object",
+                            "title": "The bg_color schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                              {
+                                "type": "grey",
+                                "tint": "400"
+                              }
+                            ],
+                            "required": [
+                              "type",
+                              "tint"
+                            ],
+                            "properties": {
+                              "type": {
+                                "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_obj/properties/bg_color/properties/type",
+                                "type": "string",
+                                "title": "The type schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                  "grey"
+                                ]
+                              },
+                              "tint": {
+                                "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/rating_obj/properties/bg_color/properties/tint",
+                                "type": "string",
+                                "title": "The tint schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                  "400"
+                                ]
+                              }
+                            },
+                            "additionalProperties": true
+                          }
+                        },
+                        "additionalProperties": true
+                      },
+                      "votes": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/user_rating/properties/votes",
+                        "type": "integer",
+                        "title": "The votes schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": 0,
+                        "examples": [
+                          0
+                        ]
+                      }
+                    },
+                    "additionalProperties": true
+                  },
+                  "all_reviews_count": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/all_reviews_count",
+                    "type": "integer",
+                    "title": "The all_reviews_count schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "photos_url": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/photos_url",
+                    "type": "string",
+                    "title": "The photos_url schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop"
+                    ]
+                  },
+                  "photo_count": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/photo_count",
+                    "type": "integer",
+                    "title": "The photo_count schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "menu_url": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/menu_url",
+                    "type": "string",
+                    "title": "The menu_url schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop"
+                    ]
+                  },
+                  "featured_image": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/featured_image",
+                    "type": "string",
+                    "title": "The featured_image schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      ""
+                    ]
+                  },
+                  "medio_provider": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/medio_provider",
+                    "type": "boolean",
+                    "title": "The medio_provider schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": false,
+                    "examples": [
+                      false
+                    ]
+                  },
+                  "has_online_delivery": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/has_online_delivery",
+                    "type": "integer",
+                    "title": "The has_online_delivery schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "is_delivering_now": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/is_delivering_now",
+                    "type": "integer",
+                    "title": "The is_delivering_now schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "store_type": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/store_type",
+                    "type": "string",
+                    "title": "The store_type schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      ""
+                    ]
+                  },
+                  "include_bogo_offers": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/include_bogo_offers",
+                    "type": "boolean",
+                    "title": "The include_bogo_offers schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": false,
+                    "examples": [
+                      true
+                    ]
+                  },
+                  "deeplink": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/deeplink",
+                    "type": "string",
+                    "title": "The deeplink schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "zomato://restaurant/19064713"
+                    ]
+                  },
+                  "is_table_reservation_supported": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/is_table_reservation_supported",
+                    "type": "integer",
+                    "title": "The is_table_reservation_supported schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "has_table_booking": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/has_table_booking",
+                    "type": "integer",
+                    "title": "The has_table_booking schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": 0,
+                    "examples": [
+                      0
+                    ]
+                  },
+                  "events_url": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/events_url",
+                    "type": "string",
+                    "title": "The events_url schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "https://www.zomato.com/akola/sahuji-the-south-indian-katta-akola-locality/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+                    ]
+                  },
+                  "phone_numbers": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/phone_numbers",
+                    "type": "string",
+                    "title": "The phone_numbers schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "+91 7387858587"
+                    ]
+                  },
+                  "all_reviews": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/all_reviews",
+                    "type": "object",
+                    "title": "The all_reviews schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                      {
+                        "reviews": []
+                      }
+                    ],
+                    "required": [
+                      "reviews"
+                    ],
+                    "properties": {
+                      "reviews": {
+                        "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/all_reviews/properties/reviews",
+                        "type": "array",
+                        "title": "The reviews schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": [],
+                        "examples": [
+                          []
+                        ],
+                        "additionalItems": true,
+                        "items": {
+                          "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/all_reviews/properties/reviews/items"
+                        }
+                      }
+                    },
+                    "additionalProperties": true
+                  },
+                  "establishment": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/establishment",
+                    "type": "array",
+                    "title": "The establishment schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": [],
+                    "examples": [
+                      [
+                        "Food Truck"
+                      ]
+                    ],
+                    "additionalItems": true,
+                    "items": {
+                      "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/establishment/items",
+                      "anyOf": [
+                        {
+                          "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/establishment/items/anyOf/0",
+                          "type": "string",
+                          "title": "The first anyOf schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "Food Truck"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "establishment_types": {
+                    "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/establishment_types",
+                    "type": "array",
+                    "title": "The establishment_types schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": [],
+                    "examples": [
+                      []
+                    ],
+                    "additionalItems": true,
+                    "items": {
+                      "$id": "#/properties/restaurants/items/anyOf/0/properties/restaurant/properties/establishment_types/items"
+                    }
+                  }
+                },
+                "additionalProperties": true
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}
